@@ -1,2 +1,7 @@
 # Final Project
-Final project for comp sci.
+Name : Nicholas Tsoukalas
+
+-- Social Media --
+Has none :)
+
+-- Brag Sheet --
