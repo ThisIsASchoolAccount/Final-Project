@@ -10,4 +10,4 @@ Has none :)
 
 -- Brag Sheet --
 
-file:///C:/Users/Ntsoukalas/Desktop/Brag%20Sheet%20Revision%204_-1131363281.pdf
+[https://github.com/ThisIsASchoolAccount/Final-Project/blob/main/Brag%20Sheet%20Revision%204_-1131363281.pdf](url)
